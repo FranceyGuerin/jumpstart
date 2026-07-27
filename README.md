@@ -52,7 +52,7 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 - Each size is optimised for allowing up to 23 cards comfortably.  I found this was the upper limit of extra cards before they started rattling around.
 
 <img width="4032" height="3024" alt="866822CC-6366-4297-8B47-10C0BFCFF2FD_1_201_a" src="https://github.com/user-attachments/assets/371becdd-c2c7-4c83-b15d-c2635393a0f9" />
-Each pack contains 21 cards in this image.
+Each pack contains 21 cards in this image. \n
 
 <img width="408" height="360" alt="ACD8D0AC-21B4-4D3A-BAF7-E8ED0625A072_1_201_a" src="https://github.com/user-attachments/assets/fc5aec80-2109-47f8-b569-51067215998a" />
 <img width="408" height="360" alt="2CD13E6F-DBCE-47EB-AA3B-BB9218C416AC_1_201_a" src="https://github.com/user-attachments/assets/e60c00f2-0db2-4268-b7f8-b4734a2862e6" />
