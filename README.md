@@ -12,15 +12,6 @@ This repository contains custom deck boxes designed for Magic the Gathering's Ju
 
 This project is intended for home use. I'm fairly sure they sit in the same Wizards sanctioned activity as card proxying.  Though if you want to sell these commercially, maybe don't?
 
-## Feedback welcome!
-- Any suggestions?
-- Which set should I do next?
-- Have you had any trouble?  What happened?
-
-## Repository Layout
-- Each directory contains the files for each jumpstart expansion.
-- The card sleeves you plan on putting the cards in changes the box sizes.
-
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
 - You may also need to play around with different paper or card.  I recommend art supply stores to source varieties.
@@ -49,7 +40,16 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 ## Gameplay
 - You can use the backs of deck boxes to pick and choose your combinations or put the deck types face down and choose randomly!
 
-## Are any of these ideas any good?
+## Repository Layout
+- Each directory contains the files for each jumpstart expansion.
+- The card sleeves you plan on putting the cards in changes the box sizes.
+
+## Feedback welcome!
+- Any suggestions?
+- Which set should I do next?
+- Have you had any trouble?  What happened?
+
+### Are any of these ideas any good?
 A decklist key.
 - A card sized list of all the cards expected within a given jumpstart pack.
 - Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
