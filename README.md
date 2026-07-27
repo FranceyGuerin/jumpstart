@@ -6,7 +6,7 @@ Storage for Magic the Gathering Jumpstart packaging. Split your decks apart afte
 <img width="5712" height="4284" alt="7ACC6A62-B671-4D09-A478-5DE3620575BB_1_201_a" src="https://github.com/user-attachments/assets/4c443a91-8406-4845-a17f-24f73cd70482" />
 
 ## Description
-This repository contains custom deck boxes designed for Magic the Gathering's Jumpstart products.  The intention is to create a storage solution that is conceivably something Wizards of the Coast would produce themselves.  So that means mimicing the marketing collateral for the jumpstart products.
+This repository contains custom deck boxes designed for Magic the Gathering's Jumpstart products.  The intention is to create a storage solution that is conceivably something Wizards of the Coast would produce themselves.  So that means mimicking the marketing collateral for the jumpstart products.
 
 This project is intended for home use. I'm fairly sure they sit in the same Wizards sanctioned activity as card proxying.  Though if you want to sell these commercially, maybe don't?
 
