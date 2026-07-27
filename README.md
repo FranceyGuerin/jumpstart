@@ -90,3 +90,7 @@ Extra room for tokens
 - I'm really split on this one as I don't want cards rattling around and getting damaged.
 - Even a millimetre or two will add up if you have many packs so I don't want the boxes to be any larger than necessary.
 - I'm biasing towards making a seperate branded tokens box but haven't run the numbers on how many I need.
+
+## Socials
+https://www.youtube.com/@we_are_BOSK
+https://www.instagram.com/ibefranci
