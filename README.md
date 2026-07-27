@@ -62,3 +62,8 @@ An exterior marking for different deck permutations.
 Instructions on how to modify a Jumpstart Booster box to be able to fit a bunch of boxed decks.
 - Lukewarm on this, I think the original dimensions are tricky.
 - It's not very scalable as one person may have 12 boosters and another have 80.  There's 121 total permutations but I doubt most people will go that far.
+
+Extra room for tokens
+- I'm really split on this one as I don't want cards rattling around and getting damaged.
+- Even a millimetre or two will add up if you have many packs so I don't want the boxes to be any larger than necessary.
+- I'm biasing towards making a seperate branded tokens box but haven't run the numbers on how many I need.
