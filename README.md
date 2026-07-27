@@ -51,7 +51,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 ## Sizing Guide
 - Each jumpstart box template is available in three sizes optimised for different card sleeving techniques.
   - Inner sleeved only. (10mm x 90mm x 65mm)
-  - Single, full sized sleeved. Dragonshield or similar. (13mm x 93mm x 68mm)
+  - Single, full size sleeved. Dragonshield or similar. (13mm x 93mm x 68mm)
   - Double sleeved. (16mm x 93mm x 68mm)
 - Each size is optimised for allowing up to 23 cards comfortably.  I found this was the upper limit of extra cards before they started rattling around.
 
