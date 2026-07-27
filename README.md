@@ -51,6 +51,7 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 A decklist key.
 - A card sized list of all the cards expected within a given jumpstart pack.
 - Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
+- I wished Wizards just printed this on the back of their face card for the booster.
 
 An exterior marking for different deck permutations.
 - This could be printed on the box but that would mess up the design, I think?
