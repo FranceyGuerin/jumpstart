@@ -13,6 +13,8 @@ This repository contains custom deck boxes designed for Magic the Gathering's Ju
 
 This project is intended for home use. I'm fairly sure they sit in the same Wizards sanctioned activity as card proxying.  Though if you want to sell these commercially, maybe don't?
 
+Use the PDF files to print.  I have also included the design files in case you want to crack them open.
+
 ## Supported sets
 - Magic the Gathering: Foundations Jumpstart (2024)
 
@@ -36,19 +38,20 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 
 ## Production
 1. Decide which sleeving technique you're using and select the appropriate box.
-2. Print the page that you're interested in.  
-3. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
-4. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
-5. Pre fold all of the scored white lines.
-6. Glue the side flap and press in place. A metal ruler can be used to do so.
-7. Glue the bottom flap and press in place.  A metal ruler can be used to do so.
-8. Sleeve up your cards and insert them.
-9. You're done!
+2. Find the appropriate PDF and download it.
+3. Print the page that you're interested in.  
+4. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
+5. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
+6. Pre fold all of the scored white lines.
+7. Glue the side flap and press in place. A metal ruler can be used to do so.
+8. Glue the bottom flap and press in place.  A metal ruler can be used to do so.
+9. Sleeve up your cards and insert them.
+10. You're done!
 
 ## Sizing Guide
 - Each jumpstart box template is available in three sizes optimised for different card sleeving techniques.
   - Inner sleeved only. (10mm x 90mm x 65mm)
-  - Single, full sized sleeved. Dragonshield or similar. (13mm x 93mm x 68mm)
+  - Single, full size sleeved. Dragonshield or similar. (13mm x 93mm x 68mm)
   - Double sleeved. (16mm x 93mm x 68mm)
 - Each size is optimised for allowing up to 23 cards comfortably.  I found this was the upper limit of extra cards before they started rattling around.
 
