@@ -22,7 +22,7 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 # How to
 ## Equipment and Materials
 - Home colour printer.
-- 200 GSM heavy paper or light card.
+- 200 GSM (grams per square metre) heavy paper or light card.
 - Cutting mat.
 - Scalpel.
 - Butter Knife or bone folding tool.
