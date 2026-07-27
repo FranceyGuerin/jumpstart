@@ -1,7 +1,7 @@
 # Jumpstart
 Storage for Magic the Gathering Jumpstart packaging. Split your decks apart after a game and store them in an orderly manner using these boxes!
 
-I reckon it was a real missed opportunity on Wizards of the Coast's part not selling these in the first place.  The art of the face cards is too nice to miss!
+I reckon it was a real missed opportunity on Wizards of the Coast's part not selling these in the first place.  The art of the face cards are too nice to miss!
 
 <img width="1000" height="704" alt="Screenshot 2026-07-27 at 12 48 15 PM" src="https://github.com/user-attachments/assets/26cea4e4-8fba-4208-820c-3789e3a54a5a" />
 <img width="4032" height="3024" alt="3E813964-1CB0-4F3F-BC80-B5CFCE0F19A3_1_201_a" src="https://github.com/user-attachments/assets/93e4ea48-8d5b-4183-97c7-34b8d4710a73" />
