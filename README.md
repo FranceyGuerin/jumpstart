@@ -43,3 +43,18 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 6. Glue the bottom flap (the one that says "Open other side") and press in place.  A metal ruler can be used to do so.
 7. Sleeve up your cards and insert them.
 8. You're done!
+
+## Gameplay
+- You can use the backs of deck boxes to pick and choose your combinations or put the deck types face down and choose randomly!
+
+## Are any of these ideas any good?
+A decklist key.
+- A card sized list of all the cards expected within a given jumpstart pack.
+- Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
+An exterior marking for different deck permutations.
+- This could be printed on the box but that would mess up the design, I think?
+- Small numbered stickers?
+- You can just write on the box if it bothers you.
+Instructions on how to modify a Jumpstart Booster box to be able to fit a bunch of boxed decks.
+- Lukewarm on this, I think the original dimensions are tricky.
+- It's not very scalable as one person may have 12 boosters and another have 80.  There's 121 total permutations but I double most people will go that far.
