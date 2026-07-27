@@ -40,13 +40,6 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 7. Sleeve up your cards and insert them.
 8. You're done!
 
-## Gameplay
-- You can use the backs of deck boxes to pick and choose your combinations or put the deck types face down and choose randomly!
-
-## Repository Layout
-- Each directory contains the files for each jumpstart expansion.
-- The card sleeves you plan on putting the cards in changes the box sizes.
-
 ## Feedback welcome!
 - Any suggestions?
 - Which set should I do next?
