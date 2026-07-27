@@ -34,14 +34,26 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 <img width="480" height="360" alt="F95C2587-B924-4EFF-A254-B425CA2AE1C4_4_5005_c" src="https://github.com/user-attachments/assets/37848e90-30cc-4539-bfb5-80340c3ee5e7" />
 
 ## Production
-1. Print the page that you're interested in.
-2. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
-3. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
-4. Pre fold all of the scored white lines.
-5. Glue the side flap and press in place.
-6. Glue the bottom flap (the one that says "Open other side") and press in place.  A metal ruler can be used to do so.
-7. Sleeve up your cards and insert them.
-8. You're done!
+1. Decide which sleeving technique you're using and select the appropriate box.
+2. Print the page that you're interested in.  
+3. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
+4. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
+5. Pre fold all of the scored white lines.
+6. Glue the side flap and press in place.
+7. Glue the bottom flap (the one that says "Open other side") and press in place.  A metal ruler can be used to do so.
+8. Sleeve up your cards and insert them.
+9. You're done!
+
+## Sizing Guide
+- Each jumpstart box template is available in three sizes optimised for different card sleeving techniques.
+  - Inner sleeved only. (10mm x 90mm x 65mm)
+  - Single, full sized sleeved. Dragonshield or similar. (13mm x 93mm x 68mm)
+  - Double sleeved. (16mm x 93mm x 68mm)
+- Each size is optimised for allowing up to 23 cards comfortably.  I found this was the upper limit of extra cards before they started rattling around.
+
+<img width="4032" height="3024" alt="866822CC-6366-4297-8B47-10C0BFCFF2FD_1_201_a" src="https://github.com/user-attachments/assets/371becdd-c2c7-4c83-b15d-c2635393a0f9" />
+<img width="4032" height="3024" alt="ACD8D0AC-21B4-4D3A-BAF7-E8ED0625A072_1_201_a" src="https://github.com/user-attachments/assets/fc5aec80-2109-47f8-b569-51067215998a" />
+<img width="4032" height="3024" alt="2CD13E6F-DBCE-47EB-AA3B-BB9218C416AC_1_201_a" src="https://github.com/user-attachments/assets/e60c00f2-0db2-4268-b7f8-b4734a2862e6" />
 
 ## Feedback welcome!
 - Any suggestions?
