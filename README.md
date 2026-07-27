@@ -27,6 +27,9 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 - Metal ruler.
 - Glue stick.
 
+<img width="480" height="360" alt="9544E9CD-E024-4F7A-A619-0FB3B340229E_4_5005_c" src="https://github.com/user-attachments/assets/61338875-d240-4c6d-a941-f43afd3e4761" />
+<img width="480" height="360" alt="F95C2587-B924-4EFF-A254-B425CA2AE1C4_4_5005_c" src="https://github.com/user-attachments/assets/37848e90-30cc-4539-bfb5-80340c3ee5e7" />
+
 ## Production
 1. Print the page that you're interested in.
 2. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
