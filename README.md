@@ -48,6 +48,9 @@ Use the PDF files to print.  I have also included the design files in case you w
 9. Sleeve up your cards and insert them.
 10. You're done!
 
+... pssst! Here's where the download button is.
+<img width="1477" height="439" alt="Screenshot 2026-07-27 at 11 33 19 PM" src="https://github.com/user-attachments/assets/1f7270f7-8581-45cd-975a-efc8988c5c85" />
+
 ## Sizing Guide
 - Each jumpstart box template is available in three sizes optimised for different card sleeving techniques.
   - Inner sleeved only. (10mm x 90mm x 65mm)
