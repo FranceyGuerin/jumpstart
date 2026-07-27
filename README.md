@@ -30,14 +30,14 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 - 200 GSM (grams per square metre) heavy paper or light card.
 - Cutting mat.
 - Scalpel.
-- Butter Knife or bone folding tool.
+- Butter knife or bone folding tool.
 - Metal ruler.
 - Glue stick.
 
 ## Production
 1. Print the page that you're interested in.
-2. Using a scalpel and metal ruler cut along all of the *RED* lines. Don't forget the semi circle that aids in removing the cards.
-3. Using the back of a butter knife or bone folder score all of the *WHITE* lines.  Use medium to hard pressure.
+2. Use a scalpel and metal ruler to cut along all of the *RED* lines. Don't forget the semi circle that aids in removing the cards.
+3. Use the back of a butter knife or bone folder to score all of the *WHITE* lines.  Use medium to hard pressure.
 4. Pre fold all of the scored white lines.
 5. Glue the side flap and press in place.
 6. Glue the bottom flap (the one that says "Open other side") and press in place.  A metal ruler can be used to do so.
