@@ -93,4 +93,5 @@ Extra room for tokens
 
 ## Socials
 https://www.youtube.com/@we_are_BOSK
+
 https://www.instagram.com/ibefranci
