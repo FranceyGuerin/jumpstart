@@ -29,8 +29,8 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 
 ## Production
 1. Print the page that you're interested in.
-2. Use a scalpel and metal ruler to cut along all of the *RED* lines. Don't forget the semi circle that aids in removing the cards.
-3. Use the back of a butter knife or bone folder to score all of the *WHITE* lines.  Use medium to hard pressure.
+2. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
+3. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
 4. Pre fold all of the scored white lines.
 5. Glue the side flap and press in place.
 6. Glue the bottom flap (the one that says "Open other side") and press in place.  A metal ruler can be used to do so.
@@ -62,4 +62,4 @@ An exterior marking for different deck permutations.
 
 Instructions on how to modify a Jumpstart Booster box to be able to fit a bunch of boxed decks.
 - Lukewarm on this, I think the original dimensions are tricky.
-- It's not very scalable as one person may have 12 boosters and another have 80.  There's 121 total permutations but I double most people will go that far.
+- It's not very scalable as one person may have 12 boosters and another have 80.  There's 121 total permutations but I doubt most people will go that far.
