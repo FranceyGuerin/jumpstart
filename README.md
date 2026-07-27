@@ -20,6 +20,11 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 - The card sleeves you plan on putting the cards in changes the box sizes.
 
 # How to
+- It is strongly recommended to print a single test page prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
+- You may also need to play around with different paper or card.  I recommend art supply stores to source varieties.
+- I have not tested on American Letter sizes as I am not American.  Just print it to 100% scale, I think they'll fit?
+- All examples are printed on an Epson Ecotank ET-8550.
+
 ## Equipment and Materials
 - Home colour printer.
 - 200 GSM (grams per square metre) heavy paper or light card.
@@ -30,11 +35,6 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 - Glue stick.
 
 ## Production
-- It is strongly recommended to print a single test page prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
-- You may also need to play around with different paper or card.  I recommend art supply stores to source.
-- I have not tested on American Letter sizes as I am not American.  Just print it to 100% scale, I think they'll fit?
-- All example images are printed on an EPSON Ecotank ET-8550.
-
 1. Print the page that you're interested in.
 2. Using a scalpel and metal ruler cut along all of the *RED* lines. Don't forget the semi circle that aids in removing the cards.
 3. Using the back of a butter knife or bone folder score all of the *WHITE* lines.  Use medium to hard pressure.
