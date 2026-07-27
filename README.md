@@ -13,7 +13,7 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 ## Feedback welcome!
 - Any suggestions?
 - Which set should I do next?
-- Have you had any trouble?  What happenned?
+- Have you had any trouble?  What happened?
 
 ## Repository Layout
 - Each directory contains the files for each jumpstart expansion.
