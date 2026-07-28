@@ -18,7 +18,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 ## Supported sets
 - Jumpstart (2020)
 - Jumpstart 2022 (2022)
-- Magic the Gathering: Foundations Jumpstart (2024)
+- Foundations Jumpstart (2024)
 
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
