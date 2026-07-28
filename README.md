@@ -48,6 +48,9 @@ Use the PDF files to print.  I have also included the design files in case you w
 9. Sleeve up your cards and insert them.
 10. You're done!
 
+... pssst! Here's where the download button is.
+<img width="1477" height="439" alt="Screenshot 2026-07-27 at 11 33 19 PM" src="https://github.com/user-attachments/assets/1f7270f7-8581-45cd-975a-efc8988c5c85" />
+
 ## Sizing Guide
 - Each jumpstart box template is available in three sizes optimised for different card sleeving techniques.
   - Inner sleeved only. (10mm x 90mm x 65mm)
@@ -90,3 +93,8 @@ Extra room for tokens
 - I'm really split on this one as I don't want cards rattling around and getting damaged.
 - Even a millimetre or two will add up if you have many packs so I don't want the boxes to be any larger than necessary.
 - I'm biasing towards making a seperate branded tokens box but haven't run the numbers on how many I need.
+
+## Socials
+https://www.youtube.com/@we_are_BOSK
+
+https://www.instagram.com/ibefranci
