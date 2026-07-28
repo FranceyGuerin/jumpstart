@@ -16,6 +16,7 @@ This project is intended for home use. I'm fairly sure they sit in the same Wiza
 Use the PDF files to print.  I have also included the design files in case you want to crack them open.
 
 ## Supported sets
+- Jumpstart 2022
 - Magic the Gathering: Foundations Jumpstart (2024)
 
 # How to
