@@ -19,6 +19,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 - Jumpstart (2020)
 - Jumpstart 2022 (2022)
 - Foundations Jumpstart (2024)
+- Avatar: The Last Airbender Jumpstart (2025)
 
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
