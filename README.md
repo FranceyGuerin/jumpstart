@@ -20,6 +20,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 - Jumpstart 2022 (2022)
 - Foundations Jumpstart (2024)
 - Avatar: The Last Airbender Jumpstart (2025)
+- Marvel Super Heroes Jumpstart (2026)
 
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
@@ -82,20 +83,6 @@ A decklist key.
 - A card sized list of all the cards expected within a given jumpstart pack.
 - Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
 - I wished Wizards just printed this on the back of their face card for the booster.
-
-An exterior marking for different deck permutations.
-- This could be printed on the box but that would mess up the design, I think?
-- Small numbered stickers?
-- You can just write on the box if it bothers you.
-
-Instructions on how to modify a Jumpstart Booster box to be able to fit a bunch of boxed decks.
-- Lukewarm on this, I think the original dimensions are tricky.
-- It's not very scalable as one person may have 12 boosters and another have 80.  There's 121 total permutations but I doubt most people will go that far.
-
-Extra room for tokens
-- I'm really split on this one as I don't want cards rattling around and getting damaged.
-- Even a millimetre or two will add up if you have many packs so I don't want the boxes to be any larger than necessary.
-- I'm biasing towards making a seperate branded tokens box but haven't run the numbers on how many I need.
 
 ## Socials
 https://www.youtube.com/@we_are_BOSK
