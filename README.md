@@ -88,12 +88,6 @@ The inner sleeve only pack is significantly smaller than the full sized sleeves.
 - Have you had any trouble?  What happened?
 - Are the instruction clear and easy to follow?
 
-### Are any of these ideas any good?
-A decklist key.
-- A card sized list of all the cards expected within a given jumpstart pack.
-- Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
-- I wished Wizards just printed this on the back of their face card for the booster.
-
 ## Socials
 https://www.youtube.com/@we_are_BOSK
 
