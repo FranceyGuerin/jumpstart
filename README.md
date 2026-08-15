@@ -48,7 +48,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 ## Production
 1. Decide which sleeving technique you're using and select the appropriate box.
 2. Find the appropriate PDF and download it.
-3. Print the page that you're interested in.  
+3. Print the page that you're interested in. IMPORTANT: set your scale to 100%, no matter what paper size you're using.
 4. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
 5. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
 6. Pre fold all of the scored white lines.
