@@ -71,6 +71,11 @@ The inner sleeve only pack is significantly smaller than the full sized sleeves.
 <img width="480" height="360" alt="ACD8D0AC-21B4-4D3A-BAF7-E8ED0625A072_1_201_a" src="https://github.com/user-attachments/assets/fc5aec80-2109-47f8-b569-51067215998a" />
 <img width="480" height="360" alt="2CD13E6F-DBCE-47EB-AA3B-BB9218C416AC_1_201_a" src="https://github.com/user-attachments/assets/e60c00f2-0db2-4268-b7f8-b4734a2862e6" />
 
+## Paper cutting machines
+**NB: This is untested.  I do not own a paper cutting machine. Use at your own risk.**
+- SVG files for each of the three sleeve types are within the `SVG for paper cutting machines` folder.
+- Load them into your software and use at your discretion.
+- Let me know if any of the print PDFs are misaligned and I'll try and fix them.
 
 ## Feedback welcome!
 - Any suggestions?
