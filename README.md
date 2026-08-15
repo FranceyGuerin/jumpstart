@@ -22,6 +22,11 @@ Use the PDF files to print.  I have also included the design files in case you w
 - Avatar: The Last Airbender Jumpstart (2025)
 - Marvel Super Heroes Jumpstart (2026)
 
+### Beginner Box packs supported for
+- Foundations Jumpstart (2024)
+- Avatar: The Last Airbender Jumpstart (2025)
+- Marvel Super Heroes Jumpstart (2026)
+
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
 - You may also need to play around with different paper or card.  I recommend art supply stores to source varieties.
