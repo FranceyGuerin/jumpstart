@@ -22,6 +22,11 @@ Use the PDF files to print.  I have also included the design files in case you w
 - Avatar: The Last Airbender Jumpstart (2025)
 - Marvel Super Heroes Jumpstart (2026)
 
+### Beginner Box packs supported for
+- Foundations Jumpstart (2024)
+- Avatar: The Last Airbender Jumpstart (2025)
+- Marvel Super Heroes Jumpstart (2026)
+
 # How to
 - It is strongly recommended to print a single test page and construct it prior to doing a full production run.  There are different box sizes depending on whether you're using inner sleeves, full size sleeves or double sleeving.
 - You may also need to play around with different paper or card.  I recommend art supply stores to source varieties.
@@ -43,7 +48,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 ## Production
 1. Decide which sleeving technique you're using and select the appropriate box.
 2. Find the appropriate PDF and download it.
-3. Print the page that you're interested in.  
+3. Print the page that you're interested in. IMPORTANT: set your scale to 100%, no matter what paper size you're using.
 4. Use a scalpel and metal ruler to cut along all of the **RED** lines. Don't forget the semi circle that aids in removing the cards.
 5. Use the back of a butter knife or bone folder to score all of the **WHITE** lines.  Use medium to hard pressure.
 6. Pre fold all of the scored white lines.
@@ -82,12 +87,6 @@ The inner sleeve only pack is significantly smaller than the full sized sleeves.
 - Which set should I do next?
 - Have you had any trouble?  What happened?
 - Are the instruction clear and easy to follow?
-
-### Are any of these ideas any good?
-A decklist key.
-- A card sized list of all the cards expected within a given jumpstart pack.
-- Would need to brand them similar to an MTG card.  I'm thinking similar to the checkbox list cards that were issued for dual face card sets like Innistrad?
-- I wished Wizards just printed this on the back of their face card for the booster.
 
 ## Socials
 https://www.youtube.com/@we_are_BOSK
