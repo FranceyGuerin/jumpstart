@@ -24,6 +24,7 @@ Use the PDF files to print.  I have also included the design files in case you w
 - Phyrexia: All Will Be One Jumpstart (2023)
 - March of the Machine Jumpstart (2023)
 - Foundations Jumpstart (2024)
+- Ravnica: Clue Edition (2024)
 - Avatar: The Last Airbender Jumpstart (2025)
 - Marvel Super Heroes Jumpstart (2026)
 
