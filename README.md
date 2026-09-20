@@ -3,8 +3,12 @@ Packaging for Magic the Gathering Jumpstart products. Split your decks apart aft
 
 I reckon it was a real missed opportunity on Wizards of the Coast's part not selling these in the first place.  The art of the face cards are too nice to miss.
 
+Full description and instructions below the images.
+
 <img width="4032" height="3024" alt="990CE5EA-CFB0-4004-90EE-0843F7CEBD2E_1_201_a" src="https://github.com/user-attachments/assets/243b4f1d-1e1d-4146-a29f-cf5966799db8" />
+<img width="4284" height="4284" alt="IMG_7481" src="https://github.com/user-attachments/assets/21a5ab13-2b3c-485c-8168-40967945f21f" />
 <img width="5712" height="4284" alt="5B80EEAF-5E00-4A7F-A649-F42C41C8EBD7_1_201_a" src="https://github.com/user-attachments/assets/dd6463a8-2ddf-4dcc-a253-dec226fdf711" />
+<img width="4284" height="4284" alt="IMG_7479" src="https://github.com/user-attachments/assets/749e0555-2a21-40ed-a34d-ba4df5ca2403" />
 <img width="1377" height="973" alt="Screenshot 2026-07-27 at 9 14 31 PM" src="https://github.com/user-attachments/assets/836348ad-4d91-4c6e-b3de-19a4cfe35284" />
 <img width="4032" height="3024" alt="3E813964-1CB0-4F3F-BC80-B5CFCE0F19A3_1_201_a" src="https://github.com/user-attachments/assets/93e4ea48-8d5b-4183-97c7-34b8d4710a73" />
 
